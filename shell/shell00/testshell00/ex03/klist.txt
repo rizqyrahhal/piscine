@@ -1,0 +1,5 @@
+Credentials cache: API:806FF791-7DA4-4C7E-B39F-461DB2386B66
+        Principal: rarahhal@1337.MA
+
+  Issued                Expires               Principal
+Sep 21 16:01:32 2021  Sep 28 16:01:24 2021  krbtgt/1337.MA@1337.MA
